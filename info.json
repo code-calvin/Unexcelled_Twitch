@@ -1,0 +1,15 @@
+{
+    "activities": [
+        "[prefix]help"
+    ],
+    "roles": [
+        {
+            "name": "member",
+            "id": "858107506500173834"
+        },
+        {
+            "name": "bots",
+            "id": "858107959271489546"
+        }
+    ]
+}
